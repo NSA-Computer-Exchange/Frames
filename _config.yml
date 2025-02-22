@@ -48,12 +48,12 @@ features                                  :
     description                           : AR Glasses created by by Brilliant Labs.xyz
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Hands-Free / Voice Enabled
+    description                           : Hands-Free operation. Get product information or add ICSP/ICSW product images by looking at a product. Navigate the app and dictate the product code.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Easy to Use
+    description                           : Intuitive controls and easily access the help menu at any time. See available commands on the glasses.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
