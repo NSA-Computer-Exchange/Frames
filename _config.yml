@@ -36,16 +36,16 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : NSA Professional Services
+    description                           : Imagined and Designed by NSA Professional Services.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : iPhone Powered / Bluetooth Enabled
+    description                           : Powered by iPhone over BLE 
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Augmented Reality Glasses 
+    description                           : AR Glasses created by by Brilliant Labs.xyz
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
