@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Augmented Reality Glasses 
     description                           : AR Glasses created by by Brilliant Labs.xyz
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : glasses-round
 
   - title                                 : Hands-Free / Voice Enabled
     description                           : Hands-Free operation. Get product information or add ICSP/ICSW product images by looking at a product. Navigate the app and dictate the product code.
