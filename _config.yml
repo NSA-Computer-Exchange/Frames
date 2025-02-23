@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : NSA Professional Services
     description                           : Imagined and Designed by NSA Professional Services.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : handshake
     
   - title                                 : iPhone Powered / Bluetooth Enabled
     description                           : Powered by iPhone over BLE 
