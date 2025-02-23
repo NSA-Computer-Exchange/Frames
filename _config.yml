@@ -57,8 +57,8 @@ features                                  :
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
-    description                           : Capture & Add Product Images to CSD
-                                          : Get Product Details
+    description                           : Capture & Add Product Images to CSD<br>
+                                          : Get Product Details<br>
                                             See Current Battery Level
                                             See Date & Time
     fontawesome_icon_name                 : star
