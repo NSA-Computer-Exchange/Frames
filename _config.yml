@@ -67,11 +67,11 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Frame App SDK
-    description                           : <p><li>Python from a Mac, Linux, or Windows computer</li></p>
+    description                           : <p><li>Python Mac, Linux or Windows</li></p>
                                             <p><li>Swift from a Mac or iOS device</li></p>
                                             <p><li>Kotlin from Android</li></p>
-                                            <p><li>Flutter for mobile (iOS and Android)</li></p>
-                                            <p><li>React Native for mobile (and computer?)</li></p>
+                                            <p><li>Flutter for mobile (iOS/Android)</li></p>
+                                            <p><li>React Native for mobile</li></p>
     fontawesome_icon_name                 : code
 
   - title                                 : Social Links
