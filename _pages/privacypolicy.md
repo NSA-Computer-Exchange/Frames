@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code Documentation
-include_in_header: true
+include_in_header: false
 ---
 
 **Last updated**  
