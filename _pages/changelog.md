@@ -35,31 +35,32 @@ ________
 <br>
 
 # **Version 1.1 Build 2**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+Introduced updates to voice commands as well as overall flow of the application. @nd build deployed to TestFlight for developent testing.
 
 <br>
 
 ## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+2nd deployment to App Store Connect. Introducing a new View Controller to act as an emulator view. This update provides the ability to show in an emulated view what is shown on the glasses.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- New Emulator UI View Controller
+- Redesign of the initial (Main) ViewController page
+- Removed function buttons
 
 <br>
 
 ### `Initial Release`
 
 ## Version 1.0
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+This is the initial IOS release pushed to App Store Connect in order to use TestFlight to test the code. Initial development was using python which ran on a notebook. In order to expand on the functionality and make it a more mobile/ hands free solution, the decision was made to build the app for IOS.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+- Pair and communicate over bluetooth. Completely new Bluetooth stack
+- Speech recognition using Apple Speech Recognition library
+- Lua commands sent in REPL fashion to show instructions on the frames.
+- Log viewer. Ability to toggle logs on or off.
+- UIImage view to view captured image from the frames.
+- Introduced new API code to get product information from ICSW in CSD over the SX api gateway.
+- Introduced new API code to send captured image to Document Management to be used as product image. Image passed through 3rd party bg.remove api.
 
 <br>
