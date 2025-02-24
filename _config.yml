@@ -78,9 +78,9 @@ features                                  :
     description                           : AR Frames leverages Infor technologies such as CloudSuite Distributon, ION, API Gateway & Document Management providing end users with a new way to interact with Infor Technologies.
     fontawesome_icon_name                 : microchip
 
-  - title                                 : #FontAwesome Support
-    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #info-circle
+  - title                                 : 3rd Party API
+    description                           : Product images pass through a background removal API in order to make sure product images look professional. 
+    fontawesome_icon_name                 : images
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
