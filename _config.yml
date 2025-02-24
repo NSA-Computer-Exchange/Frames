@@ -74,9 +74,9 @@ features                                  :
                                             <p><li>React Native for mobile</li></p>
     fontawesome_icon_name                 : code
 
-  - title                                 : #Social Links
-    description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #link
+  - title                                 : Leveraging InforOS Tech Stack
+    description                           : AR Frames leverages Infor technologies such as CloudSuite Distributon, ION, API Gateway & Document Management providing end users with a new way to interact with Infor Technologies.
+    fontawesome_icon_name                 : microchip
 
   - title                                 : #FontAwesome Support
     description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
