@@ -57,11 +57,10 @@ features                                  :
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
-    description                           : Capture & Add Product Images to CSD<br>
-                                            Get Product Details<br>
-                                            See Current Battery Level\n
-                                            See Date & Time\n
-                                            Poop
+    description                           : <ul><li>Capture & Add Product Images to CSD</li><br>
+                                            <li>Get Product Details</li><br>
+                                            <li>See Current Battery Level<\li><br>
+                                            <li>See Date & Time<\li><br></ul>
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
