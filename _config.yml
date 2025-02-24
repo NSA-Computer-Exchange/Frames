@@ -58,9 +58,10 @@ features                                  :
   
   - title                                 : Feature List
     description                           : Capture & Add Product Images to CSD<br>
-                                          : Get Product Details<br>
-                                            See Current Battery Level
-                                            See Date & Time
+                                            Get Product Details<br>
+                                            See Current Battery Level\n
+                                            See Date & Time\n
+                                            Poop
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
