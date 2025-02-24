@@ -72,7 +72,7 @@ features                                  :
                                             <p><li>Kotlin from Android</li></p>
                                             <p><li>Flutter for mobile (iOS and Android)</li></p>
                                             <p><li>React Native for mobile (and computer?)</li></p>
-    fontawesome_icon_name                 : file-code-o
+    fontawesome_icon_name                 : code
 
   - title                                 : Social Links
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
