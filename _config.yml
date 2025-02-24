@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Augmented Reality Glasses 
-    description                           : AR Glasses created by by [Brilliant Labs.xyz](https://brilliant.xyz/)
+    description                           : AR Glasses created by by <a href="https://brilliant.xyz/">Brilliant Labs.xyz</a>
     fontawesome_icon_name                 : glasses
 
   - title                                 : Hands-Free / Voice Enabled
