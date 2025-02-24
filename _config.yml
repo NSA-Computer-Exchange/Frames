@@ -41,7 +41,7 @@ features                                  :
     fontawesome_icon_name                 : handshake
     
   - title                                 : iPhone Powered / Bluetooth Enabled
-    description                           : Powered by iPhone over BLE 
+    description                           : Powered by iPhone over BTLE
     fontawesome_icon_name                 : mobile
 
   - title                                 : Augmented Reality Glasses 
@@ -66,9 +66,13 @@ features                                  :
                                             <p><li>Emulate AR View on Phone</li></p> 
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Frame App SDK
+    description                           : <p><li>Python from a Mac, Linux, or Windows computer</li></p>
+                                            <p><li>Swift from a Mac or iOS device</li></p>
+                                            <p><li>Kotlin from Android</li></p>
+                                            <p><li>Flutter for mobile (iOS and Android)</li></p>
+                                            <p><li>React Native for mobile (and computer?)</li></p>
+    fontawesome_icon_name                 : file-code-o
 
   - title                                 : Social Links
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
