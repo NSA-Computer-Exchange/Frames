@@ -57,7 +57,8 @@ features                                  :
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
-    description                           : <p style="color: #646464;"><li>Add Product Images to CSD</li></p>
+    description                           : Poop
+                                            <p style="color: #646464;"><li>Add Product Images to CSD</li></p>
                                             <p style="color: #646464;"><li>Get Product Details</li></p>
                                             <p style="color: #646464;"><li>See Current Battery Level</li></p>
                                             <p style="color: #646464;"><li>See Date & Time</li></p>
