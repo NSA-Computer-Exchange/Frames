@@ -5,12 +5,11 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
+# **Version 1.2 Build 1**
 This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
 #### What's New
@@ -23,7 +22,7 @@ This is the first update to our app. Jeez **goodness** by kept more sensually a 
 
 <br>
 
-### **Version 2.1**
+### **Version 1.2**
 Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
 #### What's New
@@ -36,7 +35,7 @@ ________
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
+# **Version 1.1 Build 2**
 Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
 
 <br>
@@ -50,7 +49,7 @@ Abnormal and formidable against much the before well improper more spent far her
 
 <br>
 
-## Version 1.0.1
+## Version 1.0
 That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
 
 #### What's New
