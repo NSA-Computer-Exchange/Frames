@@ -57,7 +57,13 @@ features                                  :
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
-    description                           : Poop
+    description                           : <p style="color: #646464;"><li>Add Product Images to CSD</li></p>
+                                            <p style="color: #646464;"><li>Get Product Details</li></p>
+                                            <p style="color: #646464;"><li>See Current Battery Level</li></p>
+                                            <p style="color: #646464;"><li>See Date & Time</li></p>
+                                            <p style="color: #646464;"><li>Get Current Firmware Level</li></p>
+                                            <p style="color: #646464;"><li>Show/Hide Event Logs</li></p>
+                                            <p style="color: #646464;"><li>Emulate AR View on Phone</li></p> 
   
     fontawesome_icon_name                 : star
 
