@@ -63,7 +63,8 @@ features                                  :
                                             <p style="color #646464"><li>See Date & Time</li></p>
                                             <p style="color #646464"><li>Get Current Firmware Level</li></p>
                                             <p style="color #646464"><li>Show/Hide Event Logs</li></p>
-                                            <p style="color #646464"><li>Emulate AR View on Phone</li></p>                              
+                                            <p style="color #646464"><li>Emulate AR View on Phone</li></p>   
+                                            Poop
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
