@@ -10,32 +10,24 @@ include_in_header: true
 
 ### `Latest`
 # **Version 1.2 Build 1**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+This is the latest update to the Frames IOS app. These updates include various fixes to the SecondViewController (Emulator) page, updated product codes being sent to IDM in lowercase. Spoken prouct codes understood as one, two, three as oppsed to 1, 2, 3. etc.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Changed product code number detection
+- Removed spaces between words and numbers on spoken text for product codes.
+- Updates to emulator screens for better clarity and more consist look/feel between frames and emulated view.
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Better product code detection
+- Changed spoken product code to uppercase
 
 <br>
-
-### **Version 1.2**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
 ________
+
 <br>
 
 # **Version 1.1 Build 2**
-Introduced updates to voice commands as well as overall flow of the application. @nd build deployed to TestFlight for developent testing.
+Introduced updates to voice commands as well as overall flow of the application. 2nd build deployed to TestFlight for developent testing.
 
 <br>
 
