@@ -22,9 +22,6 @@ This is the latest update to the Frames IOS app. These updates include various f
 - Changed spoken product code to uppercase
 
 <br>
-________
-
-<br>
 
 # **Version 1.1 Build 2**
 Introduced updates to voice commands as well as overall flow of the application. 2nd build deployed to TestFlight for developent testing.
