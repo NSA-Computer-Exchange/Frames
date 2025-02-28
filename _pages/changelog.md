@@ -31,7 +31,7 @@ Introduced updates to voice commands as well as overall flow of the application.
 
 <br>
 
-## **Version 1.1 Build 1**
+# **Version 1.1 Build 1**
 2nd deployment to App Store Connect. Introducing a new View Controller to act as an emulator view. This update provides the ability to show in an emulated view what is shown on the glasses.
 
 #### What's New
@@ -43,7 +43,7 @@ Introduced updates to voice commands as well as overall flow of the application.
 
 ### `Initial Release`
 
-## Version 1.0 Build 1
+# **Version 1.0 Build 1**
 This is the initial IOS release pushed to App Store Connect in order to use TestFlight to test the code. Initial development was using python which ran on a notebook. In order to expand on the functionality and make it a more mobile/ hands free solution, the decision was made to build the app for IOS.
 
 #### What's New
